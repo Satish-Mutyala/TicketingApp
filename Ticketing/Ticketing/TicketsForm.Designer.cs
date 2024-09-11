@@ -68,9 +68,9 @@
             this.lblAmountDue.Location = new System.Drawing.Point(366, 74);
             this.lblAmountDue.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblAmountDue.Name = "lblAmountDue";
-            this.lblAmountDue.Size = new System.Drawing.Size(99, 20);
+            this.lblAmountDue.Size = new System.Drawing.Size(101, 20);
             this.lblAmountDue.TabIndex = 2;
-            this.lblAmountDue.Text = "Amount Due";
+            this.lblAmountDue.Text = "Amount Owe";
             // 
             // lblAmount
             // 
