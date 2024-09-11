@@ -50,5 +50,10 @@ namespace Ticketing
         {
 
         }
+
+        private void lblQuantity_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

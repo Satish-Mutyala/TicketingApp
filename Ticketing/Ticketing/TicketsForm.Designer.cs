@@ -48,9 +48,10 @@
             this.lblQuantity.Location = new System.Drawing.Point(72, 74);
             this.lblQuantity.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblQuantity.Name = "lblQuantity";
-            this.lblQuantity.Size = new System.Drawing.Size(77, 20);
+            this.lblQuantity.Size = new System.Drawing.Size(124, 20);
             this.lblQuantity.TabIndex = 0;
-            this.lblQuantity.Text = "Quantity1";
+            this.lblQuantity.Text = "QuantityNeeded";
+            this.lblQuantity.Click += new System.EventHandler(this.lblQuantity_Click);
             // 
             // txtQuantity
             // 
